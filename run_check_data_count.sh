@@ -1,0 +1,1 @@
+/home/adzhogov/project/project_v2/.venv/bin/python tools/check_dataset_yolo.py --data "data/**/data.yaml"

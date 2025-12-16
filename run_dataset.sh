@@ -1,0 +1,2 @@
+export ROBOFLOW_API_KEY="16JbfSh5rK5eSdcW4xo5"
+/home/adzhogov/project/project_v2/.venv/bin/python tools/download_dataset_roboflow.py --out /home/adzhogov/project/project_v2/data --project kidney-stone-ultrasound --version 1 --format yolov8

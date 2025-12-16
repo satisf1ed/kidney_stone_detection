@@ -1,0 +1,1 @@
+/home/adzhogov/project/project_v2/.venv/bin/python -m owlvit.eval --coco_root data/coco --split test --device cuda:0

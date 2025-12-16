@@ -1,0 +1,6 @@
+{
+  "mAP50_95": 0.0,
+  "mAP50": 0.0,
+  "threshold": 0.25,
+  "checkpoint": "google/owlv2-base-patch16-ensemble"
+}

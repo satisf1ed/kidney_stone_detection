@@ -1,0 +1,17 @@
+glip/*
+.venv/*
+run.md
+*.pt
+python=3.11/*
+*.zip
+data/*
+compare/run_benchmark.py
+**/__pycache__
+runs/bench/roc*
+runs/bench/summary/
+runs/detect/
+runs/**/*.pt
+
+!runs/yolo11/train*/
+runs/yolo11/train*/**
+!runs/yolo11/train*/events.out*
